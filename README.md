@@ -1,5 +1,5 @@
 # pwsh__Clipboard
-Powershell module containing clipboard related utils.
+Powershell clipboard related utils.
 
 # Usage
 ```powershell
